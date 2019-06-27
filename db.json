@@ -10,7 +10,7 @@
   },
   "fonds": [
     {
-      "idFonds": 1,
+      "id": 1,
       "nomReglementaire": "FONDS A"
     }
   ],
