@@ -8,7 +8,8 @@
    "fonds": [
     {
       "id": 1,
-      "title": "FONDS A"
+      "title": "FONDS A",
+      "nomReglementaire": "FONDS A"
     }
   ],
   "profile": {
