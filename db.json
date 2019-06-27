@@ -24,8 +24,9 @@
   {"idFonds":"000003","nomReglementaire":"FONDS C","nomAbrege":"FC","nomUsage":"C","isFonds":true},
   {"idFonds":"000004","nomReglementaire":"FONDS D","nomAbrege":"FD","nomUsage":"D","isFonds":true},
   {"idFonds":"000005","nomReglementaire":"FONDS E","nomAbrege":"FE","nomUsage":"E","isFonds":true},
-  {"idFonds":"000006","nomReglementaire":"FONDS AA","nomAbrege":"FD","nomUsage":"D","isFonds":true},
-  {"idFonds":"000007","nomReglementaire":"FONDS AB","nomAbrege":"FD","nomUsage":"D","isFonds":true},
-  {"idFonds":"000008","nomReglementaire":"FONDS CA","nomAbrege":"FD","nomUsage":"D","isFonds":true}
+  {"idFonds":"000006","nomReglementaire":"FONDS AA","nomAbrege":"FAA","nomUsage":"AA","isFonds":true},
+  {"idFonds":"000007","nomReglementaire":"FONDS AB","nomAbrege":"FAB","nomUsage":"AB","isFonds":true},
+  {"idFonds":"000008","nomReglementaire":"FONDS CA","nomAbrege":"FCA","nomUsage":"CA","isFonds":true},
+  {"idFonds":"000009","nomReglementaire":"FONDS DA","nomAbrege":"FDA","nomUsage":"DA","isFonds":true}
  ]
 }
