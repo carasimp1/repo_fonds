@@ -8,7 +8,7 @@
    "fonds": [
     {
       "id": 1,
-      "title": "FONDS A",
+      "titles": "FONDS A",
       "nomReglementaire": "FONDS A"
     }
   ],
