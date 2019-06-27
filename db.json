@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+   "fonds": [
+    {
+      "id": 1,
+      "title": "FONDS A"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
