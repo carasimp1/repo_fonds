@@ -1,32 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
- 
-   "fonds": [
-    {
-      "id": 1,
-      "titles": "FONDS A",
-      "nomReglementaire": "FONDS A"
-    }
-  ],
- 
-  "profile": {
-    "name": "typicode"
-  },
- 
- "fonds2": [
-  {"idFonds":"000001","nomReglementaire":"FONDS A","nomAbrege":"FA","nomUsage":"A","isFonds":true},
-  {"idFonds":"000002","nomReglementaire":"FONDS B","nomAbrege":"FB","nomUsage":"B","isFonds":true},
-  {"idFonds":"000003","nomReglementaire":"FONDS C","nomAbrege":"FC","nomUsage":"C","isFonds":true},
-  {"idFonds":"000004","nomReglementaire":"FONDS D","nomAbrege":"FD","nomUsage":"D","isFonds":true},
-  {"idFonds":"000005","nomReglementaire":"FONDS E","nomAbrege":"FE","nomUsage":"E","isFonds":true},
-  {"idFonds":"000006","nomReglementaire":"FONDS AA","nomAbrege":"FAA","nomUsage":"AA","isFonds":true},
-  {"idFonds":"000007","nomReglementaire":"FONDS AB","nomAbrege":"FAB","nomUsage":"AB","isFonds":true},
-  {"idFonds":"000008","nomReglementaire":"FONDS CA","nomAbrege":"FCA","nomUsage":"CA","isFonds":true},
-  {"idFonds":"000009","nomReglementaire":"FONDS DA","nomAbrege":"FDA","nomUsage":"DA","isFonds":true}
+ "fonds": [
+  {"id":1,"idFonds":"000001","nomReglementaire":"FONDS A","nomAbrege":"FA","nomUsage":"A","isFonds":true},
+  {"id":2,"idFonds":"000002","nomReglementaire":"FONDS B","nomAbrege":"FB","nomUsage":"B","isFonds":true},
+  {"id":3,"idFonds":"000003","nomReglementaire":"FONDS C","nomAbrege":"FC","nomUsage":"C","isFonds":true},
+  {"id":4,"idFonds":"000004","nomReglementaire":"FONDS D","nomAbrege":"FD","nomUsage":"D","isFonds":true},
+  {"id":5,"idFonds":"000005","nomReglementaire":"FONDS E","nomAbrege":"FE","nomUsage":"E","isFonds":true},
+  {"id":6,"idFonds":"000006","nomReglementaire":"FONDS AA","nomAbrege":"FAA","nomUsage":"AA","isFonds":true},
+  {"id":7,"idFonds":"000007","nomReglementaire":"FONDS AB","nomAbrege":"FAB","nomUsage":"AB","isFonds":true},
+  {"id":8,"idFonds":"000008","nomReglementaire":"FONDS CA","nomAbrege":"FCA","nomUsage":"CA","isFonds":true},
+  {"id":9,"idFonds":"000009","nomReglementaire":"FONDS DA","nomAbrege":"FDA","nomUsage":"DA","isFonds":true}
  ]
 }
